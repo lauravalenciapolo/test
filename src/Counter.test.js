@@ -43,5 +43,5 @@ describe("<Counter/>", ()=>{
 
 // Test Driven Development
 function sum(i, j){
-    return i+j;
+    return i*j;
 }
